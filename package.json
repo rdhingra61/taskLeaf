@@ -1,0 +1,11 @@
+{
+  "name": "MultiTV",
+  "version": "0.0.1",
+  "description": "MultiTv",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "*",
+    "jade": "~0.31.2",
+    "express-session": "^1.7.6"
+  }
+}
